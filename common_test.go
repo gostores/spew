@@ -21,7 +21,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/gostores/spew"
+	"github.com/govenue/spew"
 )
 
 // custom type to test Stinger interface on non-pointer receiver.

@@ -26,7 +26,7 @@ package spew_test
 import (
 	"fmt"
 
-	"github.com/gostores/spew/testdata"
+	"github.com/govenue/spew/testdata"
 )
 
 func addCgoDumpTests() {
